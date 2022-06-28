@@ -10,5 +10,6 @@ npm test
 # Documentation
 https://documenter.getpostman.com/view/15855522/UzBsKQvC
 
-![image](https://user-images.githubusercontent.com/29955878/176004071-b15cf272-eab7-4009-af41-04df13ef4427.png)
+![image](https://user-images.githubusercontent.com/29955878/176121398-d40cdaa6-7bf1-460a-a858-f8f03ff5e69f.png)
+
 
